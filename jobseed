@@ -1,0 +1,7 @@
+job('Hello world') {
+steps {
+shell('echo "hello world" ')
+}
+}
+
+
