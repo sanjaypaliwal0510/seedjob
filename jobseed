@@ -1,6 +1,6 @@
-job('Hello world') {
+job('rj45') {
 steps {
-shell('echo "hello world" ')
+shell('echo "timepass" ')
 }
 }
 
