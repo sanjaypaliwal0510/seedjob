@@ -1,0 +1,21 @@
+pipeline {
+    agent any 
+    stages {
+        stage('Build') { 
+            steps {
+            echo 'rj 45 tapap'
+
+            }
+        }
+        stage('Test') { 
+            steps {
+                echo 'rj 45 tapaptappp'
+            }
+        }
+        stage('Deploy') { 
+            steps {
+                echo 'rj 45 tapaptappp'
+            }
+        }
+    }
+
